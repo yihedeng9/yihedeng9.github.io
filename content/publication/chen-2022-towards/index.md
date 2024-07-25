@@ -15,4 +15,7 @@ publication: '*Advances in neural information processing systems*'
 tags:
 - Mixture of Experts
 - Deep Learning Theory
+
+links:
+url_pdf: https://arxiv.org/pdf/2208.02813
 ---
