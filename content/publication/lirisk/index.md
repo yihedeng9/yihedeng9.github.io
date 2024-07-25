@@ -2,7 +2,7 @@
 title: Risk Bounds of Accelerated SGD for Overparameterized Linear Regression
 authors:
 - Xuheng Li
-- Yihe Deng
+- admin
 - Jingfeng Wu
 - Dongruo Zhou
 - Quanquan Gu
