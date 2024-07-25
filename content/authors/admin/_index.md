@@ -6,12 +6,12 @@ title: Yihe Deng
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Yihe
+last_name: Deng
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: ''
 
 # Is this the primary user of the site?
 superuser: true
@@ -121,5 +121,6 @@ languages:
 ---
 
 ## About Me
+I'm currently a 4th-year Ph.D. student at Department of Computer Science, University of California, Los Angeles (UCLA), where I am very fortunate to be advised by [Prof. Wei Wang](https://web.cs.ucla.edu/~weiwang/). Previously I received my B.Sc. from Department of Math, UCLA, and M.Sc. from Department of Computer Science, UCLA. During that time, I've been an student researcher at [UCLA-NLP](https://web.cs.ucla.edu/~kwchang/members/) group with [Prof. Kai-Wei Chang](https://web.cs.ucla.edu/~kwchang/).
 
 My research interests focus on post-training for Large Language Models (LLMs). Specifically, I'm interested in aspects including alignment fine-tuning, self-training and hallucination problems. I also work on robustness and multi-modal learning.  
