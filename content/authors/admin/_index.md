@@ -50,8 +50,8 @@ interests:
 education:
   - area: PhD Computer Science
     institution: University of California, Los Angeles
-    date_start: 2021-09
-    date_end: 2026-06
+    date_start: 2021-09-01
+    date_end: 2026-06-01
     summary: |
       I'm currently a 4th-year Ph.D. student at Department of Computer Science, University of California, Los Angeles (UCLA), where I am very fortunate to be advised by [Prof. Wei Wang](https://web.cs.ucla.edu/~weiwang/).
     # button:
@@ -59,8 +59,8 @@ education:
     #   url: 'https://example.com'
   - area: MS Computer Science
     institution: University of California, Los Angeles
-    date_start: 2019-09
-    date_end: 2021-06
+    date_start: 2019-09-01
+    date_end: 2021-06-01
     summary: |
       I've been an student researcher at [UCLA-NLP](https://web.cs.ucla.edu/~kwchang/members/) group with [Prof. Kai-Wei Chang](https://web.cs.ucla.edu/~kwchang/).
 
@@ -70,8 +70,8 @@ education:
       - Machine Learning Algorithms;
   - area: BS Mathematics of Computation
     institution: University of California, Los Angeles
-    date_start: 2015-09
-    date_end: 2019-06
+    date_start: 2015-09-01
+    date_end: 2019-06-01
     summary: |
       Courses included:
       - Probability Theory
@@ -82,8 +82,8 @@ work:
     company_name: Amazon Web Service (AWS)
     company_url: ''
     company_logo: ''
-    date_start: 2023-06
-    date_end: 2023-09
+    date_start: 2023-06-01
+    date_end: 2023-09-01
     summary: |2-
       Large Language Model Reasoning with Knowledge Graphs
       - Enhance the reasoning of LLMs with the multi-modal input of knowledge graphs.
