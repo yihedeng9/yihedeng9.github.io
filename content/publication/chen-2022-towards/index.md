@@ -2,7 +2,7 @@
 title: Towards understanding the mixture-of-experts layer in deep learning
 authors:
 - Zixiang Chen
-- Yihe Deng
+- __Yihe Deng__
 - Yue Wu
 - Quanquan Gu
 - Yuanzhi Li
