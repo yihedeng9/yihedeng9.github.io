@@ -1,8 +1,8 @@
 ---
 title: Enhancing Large Vision Language Models with Self-Training on Image Comprehension
 authors:
-- admin*
-- Pan Lu*
+- admin *
+- Pan Lu *
 - Fan Yin
 - Ziniu Hu
 - Sheng Shen

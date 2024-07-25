@@ -2,8 +2,8 @@
 title: Understanding Transferable Representation Learning and Zero-shot Transfer in
   CLIP
 authors:
-- Zixiang Chen*
-- admin*
+- Zixiang Chen
+- admin
 - Yuanzhi Li
 - Quanquan Gu
 date: -01-01
