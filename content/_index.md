@@ -24,7 +24,7 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: stacked-peaks.svg
+          filename: background.svg
           filters:
             brightness: 1.0
           size: cover
@@ -35,11 +35,9 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        I'm currently working on LLM post-training and focusing on self-training methods for both pure text LLMs and multi-modal LLMs. I'm generally interested in alignment and hallucination reduction for LLMs. I try to blog about papers I read.
         
-        Please reach out to collaborate 😃
+        Please reach out to discuss and collaborate 😃
     design:
       columns: '1'
   - block: collection
