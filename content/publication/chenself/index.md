@@ -1,9 +1,9 @@
 ---
 title: Self-Play Fine-Tuning Converts Weak Language Models to Strong Language Models
 authors:
-- Zixiang Chen*
-- admin* 
-- Huizhuo Yuan*
+- Zixiang Chen *
+- admin * 
+- Huizhuo Yuan *
 - Kaixuan Ji
 - Quanquan Gu
 date: -01-01
