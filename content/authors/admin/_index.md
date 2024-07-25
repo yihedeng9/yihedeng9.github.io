@@ -81,7 +81,7 @@ work:
   - position: Applied Scientist Intern
     company_name: Amazon Web Service (AWS)
     company_url: ''
-    company_logo: ''
+    company_logo: "aws"
     date_start: 2023-06-01
     date_end: 2023-09-01
     summary: |2-
