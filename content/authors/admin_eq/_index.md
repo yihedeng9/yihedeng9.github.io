@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yihe Deng
+title: Yihe Deng*
 
 # Name pronunciation (optional)
 name_pronunciation: ''

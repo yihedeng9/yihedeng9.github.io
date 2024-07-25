@@ -53,8 +53,8 @@ sections:
       columns: 2
   - block: collection
     content:
-      title: Recent Publications
-      text: ""
+      title: Recent Publications 
+      text: "*Equal Contribution"
       filters:
         folders:
           - publication

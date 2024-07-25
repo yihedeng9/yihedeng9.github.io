@@ -2,16 +2,16 @@
 title: 'PhyGCN: Pre-trained Hypergraph Convolutional Neural Networks with Self-supervised
   Learning'
 authors:
-- admin
-- Ruochi Zhang
+- admin_eq
+- Ruochi Zhang*
 - Pan Xu
 - Jian Ma
 - Quanquan Gu
 author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
-date: '2023-01-01'
-publishDate: '2024-07-25T03:37:02.878169Z'
+date: '2023-10-01'
+publishDate: '2023-10-01'
 publication_types:
 - article-journal
 publication: '*bioRxiv*'
