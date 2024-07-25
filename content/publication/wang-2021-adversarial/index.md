@@ -2,9 +2,9 @@
 title: Adversarial training with fast gradient projection method against synonym substitution
   based text attacks
 authors:
-- Xiaosen Wang 
-- Yichen Yang 
-- admin 
+- Xiaosen Wang* 
+- Yichen Yang* 
+- admin_eq 
 - Kun He
 author_notes:
   - 'Equal contribution'

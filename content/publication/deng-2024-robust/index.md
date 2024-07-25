@@ -1,8 +1,8 @@
 ---
 title: Robust learning with progressive data expansion against spurious correlation
 authors:
-- admin 
-- Yu Yang 
+- admin_eq 
+- Yu Yang* 
 - Baharan Mirzasoleiman
 - Quanquan Gu
 author_notes:
