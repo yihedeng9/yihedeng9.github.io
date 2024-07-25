@@ -12,8 +12,8 @@ author_notes:
   - "Equal contribution"
   - "Equal contribution"
 
-date: 2024-01-01
-publishDate: '2024-07-25'
+date: 2024-01-02
+publishDate: '2024-01-02'
 publication_types:
 - paper-conference
 publication: '*Forty-first International Conference on Machine Learning*'
