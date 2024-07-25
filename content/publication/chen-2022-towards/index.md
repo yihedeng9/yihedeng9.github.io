@@ -1,8 +1,8 @@
 ---
-title: Towards understanding the mixture-of-experts layer in deep learning
+title: "Towards understanding the mixture-of-experts layer in deep learning"
 authors:
 - Zixiang Chen
-- __Yihe Deng__
+- admin
 - Yue Wu
 - Quanquan Gu
 - Yuanzhi Li
@@ -11,4 +11,8 @@ publishDate: '2024-07-25T03:37:02.872177Z'
 publication_types:
 - article-journal
 publication: '*Advances in neural information processing systems*'
+
+tags:
+- Mixture of Experts
+- Deep Learning Theory
 ---
