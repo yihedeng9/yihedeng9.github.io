@@ -1,9 +1,9 @@
 ---
 title: 'MIRAI: Evaluating LLM Agents for Event Forecasting'
 authors:
-- Chenchen Ye
-- Ziniu Hu
-- Yihe Deng
+- Chenchen Ye*
+- Ziniu Hu*
+- admin*
 - Zijie Huang
 - Mingyu Derek Ma
 - Yanqiao Zhu

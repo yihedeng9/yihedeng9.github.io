@@ -3,7 +3,7 @@ title: Generating natural language adversarial examples through probability weig
   word saliency
 authors:
 - Shuhuai Ren
-- Yihe Deng
+- admin
 - Kun He
 - Wanxiang Che
 date: '2019-01-01'

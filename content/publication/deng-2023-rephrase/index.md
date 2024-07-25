@@ -1,7 +1,7 @@
 ---
 title: 'Rephrase and respond: Let large language models ask better questions for themselves'
 authors:
-- Yihe Deng
+- admin
 - Weitong Zhang
 - Zixiang Chen
 - Quanquan Gu

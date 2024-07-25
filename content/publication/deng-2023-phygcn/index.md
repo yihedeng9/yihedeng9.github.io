@@ -2,8 +2,8 @@
 title: 'PhyGCN: Pre-trained Hypergraph Convolutional Neural Networks with Self-supervised
   Learning'
 authors:
-- Yihe Deng
-- Ruochi Zhang
+- admin*
+- Ruochi Zhang*
 - Pan Xu
 - Jian Ma
 - Quanquan Gu

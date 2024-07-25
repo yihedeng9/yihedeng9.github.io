@@ -3,7 +3,7 @@ title: Adaptive wavelet clustering for highly noisy data
 authors:
 - Zengjian Chen
 - Jiayi Liu
-- __Yihe Deng__
+- admin
 - Kun He
 - John E Hopcroft
 date: '2019-01-01'
