@@ -2,8 +2,8 @@
 title: Mitigating object hallucination in large vision-language models via classifier-free
   guidance
 authors:
-- Linxi Zhao*
-- admin*
+- Linxi Zhao *
+- admin *
 - Weitong Zhang
 - Quanquan Gu
 date: '2024-01-01'
