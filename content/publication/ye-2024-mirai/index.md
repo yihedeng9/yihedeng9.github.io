@@ -23,6 +23,11 @@ abstract: We introduce MIRAI, a benchmark crafted for evaluating LLM agents in t
 # Summary. An optional shortened abstract.
 summary: We introduce MIRAI, a benchmark crafted for evaluating LLM agents in temporal forecasting of international events with tool use and complex reasoning. With 59,161 unique events and 296,630 unique news articles, we curate a test set of 705 forecasting query-answer pairs.
 
+tags:
+- Large Language Models
+- Benchmark
+- LLM Agents
+
 links:
 url_pdf: 'https://arxiv.org/pdf/2407.01231'
 url_code: 'https://github.com/yecchen/MIRAI'
@@ -30,4 +35,11 @@ url_dataset: 'https://drive.google.com/file/d/1xmSEHZ_wqtBu1AwLpJ8wCDYmT-jRpfrN/
 url_project: 'mirai-llm.github.io'
 
 featured: true
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
 ---
