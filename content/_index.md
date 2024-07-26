@@ -37,7 +37,7 @@ sections:
       text: |-
         I'm currently working on LLM post-training and focusing on self-training methods for both pure text LLMs and multi-modal LLMs. I'm generally interested in alignment and hallucination reduction for LLMs. I try to blog about papers I read.
         
-        Please reach out to discuss and collaborate 😃
+        Please reach out to discuss and collaborate at yihedeng at g dot ucla dot edu😃
     design:
       columns: '1'
   - block: collection
@@ -74,7 +74,7 @@ sections:
   - block: collection
     id: news
     content:
-      title: Recent News
+      title: Notes on Papers I Read
       subtitle: ''
       text: ''
       # Page type to display. E.g. post, talk, publication...
