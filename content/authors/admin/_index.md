@@ -52,8 +52,8 @@ education:
     institution: University of California, Los Angeles
     date_start: 2021-09-01
     date_end: 2026-06-01
-    summary: |
-      I'm currently a 4th-year Ph.D. student at Department of Computer Science, University of California, Los Angeles (UCLA), where I am very fortunate to be advised by [Prof. Wei Wang](https://web.cs.ucla.edu/~weiwang/).
+    # summary: |
+    #   I'm currently a 4th-year Ph.D. student at Department of Computer Science, University of California, Los Angeles (UCLA), where I am very fortunate to be advised by [Prof. Wei Wang](https://web.cs.ucla.edu/~weiwang/).
     # button:
     #   text: 'Read Thesis'
     #   url: 'https://example.com'
@@ -61,22 +61,22 @@ education:
     institution: University of California, Los Angeles
     date_start: 2019-09-01
     date_end: 2021-06-01
-    summary: |
-      I've been an student researcher at [UCLA-NLP](https://web.cs.ucla.edu/~kwchang/members/) group with [Prof. Kai-Wei Chang](https://web.cs.ucla.edu/~kwchang/).
+    # summary: |
+    #   I've been an student researcher at [UCLA-NLP](https://web.cs.ucla.edu/~kwchang/members/) group with [Prof. Kai-Wei Chang](https://web.cs.ucla.edu/~kwchang/).
 
-      Courses included:
-      - Natural Language Processing
-      - Advanced Data Mining
-      - Machine Learning Algorithms;
+    #   Courses included:
+    #   - Natural Language Processing
+    #   - Advanced Data Mining
+    #   - Machine Learning Algorithms;
   - area: BS Mathematics of Computation
     institution: University of California, Los Angeles
     date_start: 2015-09-01
     date_end: 2019-06-01
-    summary: |
-      Courses included:
-      - Probability Theory
-      - Optimization
-      - Monte Carlo Methods
+    # summary: |
+    #   Courses included:
+    #   - Probability Theory
+    #   - Optimization
+    #   - Monte Carlo Methods
 work:
   - position: Applied Scientist Intern
     company_name: Amazon Web Service (AWS)
