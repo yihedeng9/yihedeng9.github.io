@@ -2,7 +2,7 @@
 title: Self-play fine-tuning converts weak language models to strong language models
 
 event: UCLA-NLP Group, University of California, Los Angeles
-event_url: https://web.cs.ucla.edu/~kwchang/members/
+event_url: 'https://web.cs.ucla.edu/~kwchang/members/'
 
 # location: ''
 # address:
