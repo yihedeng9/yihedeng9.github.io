@@ -2,15 +2,15 @@
 title: Self-play fine-tuning converts weak language models to strong language models
 
 event: UCLA-NLP Group, University of California, Los Angeles
-event_url: 'https://web.cs.ucla.edu/~kwchang/members/'
+event_url: https://web.cs.ucla.edu/~kwchang/members/
 
-# location: ''
-# address:
-#   street: 450 Serra Mall
-#   city: Stanford
-#   region: CA
-#   postcode: '94305'
-#   country: United States
+location: ''
+address:
+  street: 450 Serra Mall
+  city: Stanford
+  region: CA
+  postcode: '94305'
+  country: United States
 
 summary: Self-play fine-tuning converts weak language models to strong language models
 abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
@@ -58,9 +58,8 @@ slides: ""
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = []
-# projects:
-#   - example
+projects:
+  - example
 ---
 
 {{% callout note %}}
