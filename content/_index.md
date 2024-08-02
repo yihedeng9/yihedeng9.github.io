@@ -64,7 +64,7 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Recent & Upcoming Talks
+      title: Invited Talks
       filters:
         folders:
           - event
