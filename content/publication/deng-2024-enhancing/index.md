@@ -29,7 +29,7 @@ tags:
 - Multi-modal learning
 
 links:
-url_pdf: 'arxiv.org/abs/2405.19716'
+url_pdf: 'https://arxiv.org/pdf/2405.19716'
 url_code: 'https://github.com/yihedeng9/STIC'
 url_dataset: 'https://huggingface.co/collections/STIC-LVLM/stic-data-6658e7f93aa5d4bb34ef140b'
 url_project: 'https://stic-lvlm.github.io/'
