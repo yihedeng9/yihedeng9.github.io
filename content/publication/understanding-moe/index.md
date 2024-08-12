@@ -10,7 +10,7 @@ date: '2022-01-01'
 publishDate: '2024-07-25T03:37:02.872177Z'
 publication_types:
 - article-journal
-publication: '*Advances in neural information processing systems*'
+publication: '*Advances in neural information processing systems* ***(NeurIPS)***'
 
 tags:
 - Mixture of Experts

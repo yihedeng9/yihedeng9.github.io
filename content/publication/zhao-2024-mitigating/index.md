@@ -14,4 +14,7 @@ publishDate: '2024-02-13'
 publication_types:
 - article-journal
 publication: '*arXiv preprint arXiv:2402.08680*'
+
+links:
+url_pdf: 'https://arxiv.org/pdf/2402.08680'
 ---

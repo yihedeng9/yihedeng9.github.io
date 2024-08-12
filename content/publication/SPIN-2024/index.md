@@ -16,7 +16,7 @@ date: 2024-01-02
 publishDate: '2024-01-02'
 publication_types:
 - paper-conference
-publication: '*Forty-first International Conference on Machine Learning* (ICML 2024)'
+publication: '*Forty-first International Conference on Machine Learning* ***(ICML)***'
 
 tags:
 - Large Language Models

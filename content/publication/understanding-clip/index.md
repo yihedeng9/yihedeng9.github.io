@@ -13,5 +13,5 @@ date: 2023-10-02
 publishDate: '2023-10-02'
 publication_types:
 - paper-conference
-publication: '*The Twelfth International Conference on Learning Representations*'
+publication: '*The Twelfth International Conference on Learning Representations* ***(ICLR)***'
 ---
