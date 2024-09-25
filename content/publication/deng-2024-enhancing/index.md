@@ -16,7 +16,7 @@ date: '2024-05-30'
 publishDate: '2024-05-30'
 publication_types:
 - article-journal
-publication: '*arXiv preprint arXiv:2405.19716*'
+publication: '*Advances in neural information processing systems* ***(NeurIPS)***'
 
 abstract: We introduce STIC (Self-Training on Image Comprehension) that enhances the understanding and reasoning capabilities of LVLMs through self-generated data. Our experiments across seven benchmarks, including ScienceQA, TextVQA, ChartQA, LLaVA-Bench, MMBench, MM-Vet, and MathVista, demonstrate a notable average accuracy gain of 4.0% by self-training.  
 

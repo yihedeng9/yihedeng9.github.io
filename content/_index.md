@@ -38,6 +38,12 @@ sections:
         I'm currently working on LLM post-training and focusing on self-training methods for both pure text LLMs and multi-modal LLMs. I'm generally interested in alignment and hallucination reduction for LLMs. I try to blog about papers I read.
         
         Please reach out to discuss and collaborate at yihedeng at g dot ucla dot edu😃
+  - block: markdown
+    content:
+      title: '🎉 Recent News'
+      subtitle: ''
+      text: |-
+        (09/2024) Our papers "Enhancing Large Vision Language Models with Self-Training on Image Comprehension" and "GraphVis: Boosting LLMs with Visual Knowledge Graph Integration" got accepted to NeurIPS 2024!
     design:
       columns: '1'
   - block: collection
